@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 Ragul is a king
 =======
 hello
->>>>>>> deva
+
